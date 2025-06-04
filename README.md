@@ -13,6 +13,9 @@ projeto_fila/
 │   └── tempos.csv
 ├── resultados/       # Resultados gerados e gráficos
 │   └── resultados.csv, gráficos .png
+├── estatistica/
+│   └── estatistica.py ← seu script
+
 ```
 
 ## 🚀 Como Executar
